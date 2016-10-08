@@ -1,0 +1,23 @@
+{
+  "name": "orchard",
+  "description": "growing some trees",
+  "main": "index.js",
+  "authors": [
+    "Tommy Waters <thomas.waters05@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "trees"
+  ],
+  "homepage": "https://github.com/Thomaswaters05/orchard",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
